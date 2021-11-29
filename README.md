@@ -14,7 +14,7 @@ Here are something About me:
 - 👯 I’m looking to collaborate on ...Github
 - 🤔 I’m looking for help with ...documentation 
 - 💬 Ask me about ...Javascript,React,AWS or any tech related stuff
-- 📫 How to reach me: <a href=”https://www.linkedin.com/in/shubhamsinha-baghel-261484147/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>        
+- 📫 How to reach me: <a href=”https://www.linkedin.com/in/shubhamsinha-baghel-261484147"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>        
 - 😄 My technical Blog: ... https://dev.to/shubham57396755
 - ⚡ Fun fact: ...Please don't say !Javascript is easy.
 - <img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
