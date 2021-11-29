@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here are something About me:
 
 - 🔭 I’m currently working on ...React,Node,js,Javascript,AWS,Python
 - 🌱 I’m currently learning ...Machine Learning,AI etc.
