@@ -1,10 +1,10 @@
 ### Hello, I am Shubham!! 👋
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubhambaghel34.visitor-badge)
-I'm a self-taught passionate Fullstack developer from India 🇮🇳
+
 
 Here are something About me:
-
+- 😄 I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - 🔭 I’m currently working on ...React,Node,js,Javascript,AWS,Python
 - 🌱 I’m currently learning ...Machine Learning,AI etc.
 - 👯 I’m looking to collaborate on ...Github
