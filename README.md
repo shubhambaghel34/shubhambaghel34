@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://dev.to/shubham57396755
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Please don't say Javascript is not easy.
+- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhambaghel34&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
