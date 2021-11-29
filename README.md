@@ -2,7 +2,7 @@
 
 ### I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
-<img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
+
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubhambaghel34.visitor-badge)
 
@@ -17,7 +17,7 @@ Here are something About me:
 - 📫 How to reach me: ...https://www.linkedin.com/in/shubhamsinha-baghel-261484147/            
 - 😄 My technical Blog: ... https://dev.to/shubham57396755
 - ⚡ Fun fact: ...Please don't say !Javascript is easy.
-
+- <img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
 - ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambaghel34&show_icons=true&theme=radical)
 
 
