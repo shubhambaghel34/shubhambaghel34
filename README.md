@@ -2,6 +2,8 @@
 
 ### I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
+<img src=”https://github.com/thisisvillegas/thisisvillegas/blob/main/assets/GitHubBanner.png" alt=”horizon hero banner”/>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubhambaghel34.visitor-badge)
 
 
