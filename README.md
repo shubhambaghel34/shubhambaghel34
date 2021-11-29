@@ -14,5 +14,6 @@ Here are something About me:
 - ⚡ Fun fact: ...Please don't say Javascript is not easy.
 - ❤️ Git stats ...
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shubhambaghel34&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-- Top Languages ...[(https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambaghel34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Top Languages ...[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambaghel34)](https://github.com/shubhambaghel34/github-readme-stats)
+
  
