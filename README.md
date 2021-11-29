@@ -11,7 +11,7 @@ Here are something About me:
 - 💬 Ask me about ...Javascript,React,AWS or any tech related stuff
 - 📫 How to reach me: ...https://www.linkedin.com/in/shubhamsinha-baghel-261484147/            
 - 😄 My technical Blog: ... https://dev.to/shubham57396755
-- ⚡ Fun fact: ...Please don't say Javascript is not easy.
+- ⚡ Fun fact: ...Please don't say !Javascript is easy.
 
 
 
