@@ -3,10 +3,7 @@
 ### I'm a self-taught passionate Fullstack developer from India 🇮🇳
 
 
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubhambaghel34.visitor-badge)
-
-
 Here are something About me:
 - 😄 I'm a self-taught passionate Fullstack developer from India 🇮🇳
 - 🔭 I’m currently working on ...React,Node,js,Javascript,AWS,Python
@@ -18,6 +15,7 @@ Here are something About me:
 - 😄 My technical Blog: ... https://dev.to/shubham57396755
 - ⚡ Fun fact: ...Please don't say !Javascript is easy.
 - ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambaghel34&show_icons=true&theme=radical)
+
 
 
 
