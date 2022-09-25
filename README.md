@@ -54,7 +54,7 @@ Hey there! Thanks for visiting my profile! 👋
 
 <br>
 
-### Recent Activity
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
