@@ -49,12 +49,14 @@ Hey there! Thanks for visiting my profile! 👋
 </p>
 
 
+### :zap: Milestones
+<img src="https://github-profile-trophy.vercel.app/?username=shubhambaghel34&theme=juicyfresh&no-bg=true" />
 
+<br>
 
-### :zap: Recent Activity
+### Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
