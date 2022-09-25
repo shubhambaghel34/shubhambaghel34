@@ -57,16 +57,16 @@ Hey there! Thanks for visiting my profile! 👋
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#1791](https://github.com/EddieHubCommunity/LinkFree/issues/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 2. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 3. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 💪 Opened PR [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. 🗣 Commented on [#1387](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1387) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-6. ❗️ Opened issue [#1387](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1387) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-7. 🗣 Commented on [#1791](https://github.com/EddieHubCommunity/LinkFree/issues/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-8. 🗣 Commented on [#1818](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1818) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+4. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 💪 Opened PR [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+6. 🗣 Commented on [#1387](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1387) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+7. ❗️ Opened issue [#1387](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1387) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+8. 🗣 Commented on [#1791](https://github.com/EddieHubCommunity/LinkFree/issues/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 9. 🗣 Commented on [#1818](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1818) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-10. 💪 Opened PR [#1791](https://github.com/EddieHubCommunity/LinkFree/pull/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+10. 🗣 Commented on [#1818](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1818) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 ---
