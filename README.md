@@ -57,16 +57,16 @@ Hey there! Thanks for visiting my profile! 👋
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+1. 💪 Opened PR [#23](https://github.com/typhonshambo/hacktoberfest-2022/pull/23) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
 2. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-3. 💪 Opened PR [#22](https://github.com/typhonshambo/hacktoberfest-2022/pull/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-4. 💪 Opened PR [#26](https://github.com/samiullahsaleem/cyberblock/pull/26) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
-5. 💪 Opened PR [#25](https://github.com/samiullahsaleem/cyberblock/pull/25) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
-6. 💪 Opened PR [#132](https://github.com/avinash201199/To-Do-List/pull/132) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-7. 💪 Opened PR [#129](https://github.com/avinash201199/To-Do-List/pull/129) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-8. 🗣 Commented on [#1791](https://github.com/EddieHubCommunity/LinkFree/issues/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-9. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-10. 🗣 Commented on [#1388](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1388) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+4. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+5. 💪 Opened PR [#22](https://github.com/typhonshambo/hacktoberfest-2022/pull/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+6. 💪 Opened PR [#26](https://github.com/samiullahsaleem/cyberblock/pull/26) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
+7. 💪 Opened PR [#25](https://github.com/samiullahsaleem/cyberblock/pull/25) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
+8. 💪 Opened PR [#132](https://github.com/avinash201199/To-Do-List/pull/132) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+9. 💪 Opened PR [#129](https://github.com/avinash201199/To-Do-List/pull/129) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+10. 🗣 Commented on [#1791](https://github.com/EddieHubCommunity/LinkFree/issues/1791) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 ---
