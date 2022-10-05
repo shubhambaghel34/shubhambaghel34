@@ -57,16 +57,16 @@ Hey there! Thanks for visiting my profile! 👋
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/avinash201199/To-Do-List/pull/140) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-2. 🗣 Commented on [#132](https://github.com/avinash201199/To-Do-List/issues/132) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-3. 💪 Opened PR [#24](https://github.com/typhonshambo/hacktoberfest-2022/pull/24) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-4. 💪 Opened PR [#23](https://github.com/typhonshambo/hacktoberfest-2022/pull/23) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-5. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-6. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+1. 💪 Opened PR [#143](https://github.com/avinash201199/To-Do-List/pull/143) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+2. ❌ Closed PR [#140](https://github.com/avinash201199/To-Do-List/pull/140) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+3. 💪 Opened PR [#140](https://github.com/avinash201199/To-Do-List/pull/140) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+4. 🗣 Commented on [#132](https://github.com/avinash201199/To-Do-List/issues/132) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+5. 💪 Opened PR [#24](https://github.com/typhonshambo/hacktoberfest-2022/pull/24) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+6. 💪 Opened PR [#23](https://github.com/typhonshambo/hacktoberfest-2022/pull/23) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
 7. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-8. 💪 Opened PR [#22](https://github.com/typhonshambo/hacktoberfest-2022/pull/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
-9. 💪 Opened PR [#26](https://github.com/samiullahsaleem/cyberblock/pull/26) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
-10. 💪 Opened PR [#25](https://github.com/samiullahsaleem/cyberblock/pull/25) in [samiullahsaleem/cyberblock](https://github.com/samiullahsaleem/cyberblock)
+8. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+9. 🗣 Commented on [#22](https://github.com/typhonshambo/hacktoberfest-2022/issues/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
+10. 💪 Opened PR [#22](https://github.com/typhonshambo/hacktoberfest-2022/pull/22) in [typhonshambo/hacktoberfest-2022](https://github.com/typhonshambo/hacktoberfest-2022)
 <!--END_SECTION:activity-->
 
 ---
