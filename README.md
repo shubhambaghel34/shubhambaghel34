@@ -55,7 +55,7 @@ Hey there! Thanks for visiting my profile! 👋
 <br>
 
 
-### :zap: Hactoberfest-2022
+### :zap: Holopin Badges
 [![@shubhambaghel34's Holopin board](https://holopin.me/shubhambaghel34)](https://holopin.io/@shubhambaghel34)
 
 <br>
