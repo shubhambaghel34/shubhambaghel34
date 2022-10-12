@@ -54,6 +54,13 @@ Hey there! Thanks for visiting my profile! 👋
 
 <br>
 
+
+### :zap: Hactoberfest-2022
+[![@shubhambaghel34's Holopin board](https://holopin.me/shubhambaghel34)](https://holopin.io/@shubhambaghel34)
+
+<br>
+
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -68,6 +75,8 @@ Hey there! Thanks for visiting my profile! 👋
 9. 💪 Opened PR [#143](https://github.com/avinash201199/To-Do-List/pull/143) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
 10. ❌ Closed PR [#140](https://github.com/avinash201199/To-Do-List/pull/140) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
 <!--END_SECTION:activity-->
+
+
 
 ---
 <h2 align="center">My Socials :handshake: </h2>
