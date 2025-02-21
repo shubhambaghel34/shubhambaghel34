@@ -1,8 +1,5 @@
 ### I'm a Self-taught passionate Fullstack developer from India 🇮🇳
 
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=shubhambaghel34.visitor-badge)
-
 Hey there! Thanks for visiting my profile! 👋
 
 
