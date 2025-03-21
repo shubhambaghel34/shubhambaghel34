@@ -52,7 +52,6 @@ Hey there! Thanks for visiting my profile! 👋
 
 <br>
 
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
