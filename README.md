@@ -2,8 +2,6 @@
 
 Hey there! Thanks for visiting my profile! 👋
 
-
-
   About myself:
   
   ```ts
@@ -20,10 +18,6 @@ Hey there! Thanks for visiting my profile! 👋
 - 📫 How to reach me: 
 - 😄 My technical Blog: ... https://dev.to/shubham57396755
 - ⚡ Fun fact: ...Please don't say !Javascript is easy.
-
-
-
-
 
 
 
