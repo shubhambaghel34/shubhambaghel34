@@ -23,10 +23,6 @@ Hey there! Thanks for visiting my profile! 👋
 
 
 
-
-
-
-
 <div>
 <img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambaghel34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
 </div>
