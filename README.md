@@ -2,8 +2,6 @@
 
 Hey there! Thanks for visiting my profile! 👋
 
-
-
   About myself:
   
   ```ts
