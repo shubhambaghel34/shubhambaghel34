@@ -1,52 +1,57 @@
+# About Me 🚀
+
+🔭 I’m a **Senior Software Engineer** specializing in **Full-Stack Development** with over **7 years of experience** in building scalable, high-performance applications.
+
+📎 In my free time, I explore **cutting-edge technologies**, contribute to **open-source projects**, and enhance my **system design & architecture** skills.
+
+📚 **Continuous Learning + Problem Solving + Innovation + Team Collaboration** — the principles I live by.
+
+🌱 Passionate about **Cloud Architecture**, **Microservices**, and **Serverless Computing** with a deep interest in **AWS & DevOps automation**.
+
+🤔 I enjoy designing **resilient distributed systems**, experimenting with **design patterns**, and optimizing application performance.
+
+☕ Coffee fuels my creativity — **Coffee <-> Code** is my natural workflow.
+
+---
+
+## 🛠 Tech Stack
+
+- 💻 **Backend:** Node.js | TypeScript | JavaScript | Express.js | NestJS | REST API | GraphQL  
+- 🌐 **Frontend:** React.js | Redux | Tailwind CSS | Material UI  
+- ☁ **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, DynamoDB, SQS/SNS, CloudFormation) | Docker | Kubernetes | Terraform | Jenkins | GitHub Actions  
+- 🗄 **Databases:** MongoDB | PostgreSQL | DynamoDB | Redis | SQL  
+- 🛡 **Security:** JWT | OAuth 2.0 | SSO | API Gateway Policies  
+- 📈 **Architecture & Patterns:** Microservices | Event-Driven | CQRS | Saga | Circuit Breaker | Caching Strategies  
+- 🔧 **Tools & Platforms:** Git | GitHub | GitLab | VS Code | Postman | Swagger | JSDoc | Jest | Cucumber | Playwright  
+- 🧠 **Other Skills:** System Design | CI/CD Pipelines | Observability (CloudWatch, X-Ray) | Performance Optimization  
+
+---
+
 ### I'm a Self-taught passionate Fullstack developer from India 🇮🇳
 
 Hey there! Thanks for visiting my profile! 👋
 
-
-
-  About myself:
-  
-  ```ts
-        const firstName = 'Shubham';
-        const lastName='Baghel'
- ```
-  
-  
-- 😄 I'm a self-taught passionate Fullstack developer from India 🇮🇳
-- 🔭 I’m currently working on ...React,Node,js,Javascript,AWS,Python
-- 🌱 I’m currently learning ...Machine Learning,AI etc.
-- 👯 I’m looking to collaborate on ...Github
-- 💬 Ask me about ...Javascript,React,AWS or any tech related stuff
-- 📫 How to reach me: 
-- 😄 My technical Blog: ... https://dev.to/shubham57396755
-- ⚡ Fun fact: ...Please don't say !Javascript is easy.
-
-
-
 <div>
-<img  width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambaghel34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhambaghel34&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
 </div>
 <br>
 
-
-
-
-<h2 align="center">My GitHub Status<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+<h2 align="center">My GitHub Status <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 <p align="center">
-<a href="https://github.com/shubhambaghel34?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=shubhambaghel34&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/shubhambaghel34?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=shubhambaghel34&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats"/></a>
 </p>
 
+---
 
 ### :zap: Milestones
 <img src="https://github-profile-trophy.vercel.app/?username=shubhambaghel34&theme=juicyfresh&no-bg=true" />
 
-<br>
-
+---
 
 ### :zap: Holopin Badges
 [![@shubhambaghel34's Holopin board](https://holopin.me/shubhambaghel34)](https://holopin.io/@shubhambaghel34)
 
-<br>
+---
 
 ### :zap: Recent Activity
 
@@ -63,10 +68,9 @@ Hey there! Thanks for visiting my profile! 👋
 10. 💪 Opened PR [#143](https://github.com/avinash201199/To-Do-List/pull/143) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
 <!--END_SECTION:activity-->
 
-
-
 ---
-<h2 align="center">My Socials :handshake: </h2>
+
+<h2 align="center">My Socials :handshake:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/shubhamsinhabaghel/">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/social/linkedin.svg" alt="Linkedin" style="vertical-align:top; margin:4px">
@@ -75,5 +79,3 @@ Hey there! Thanks for visiting my profile! 👋
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/social/gmail.svg" alt="GMail" style="vertical-align:top; margin:4px">
 </a>
 </p>
-
----
