@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,30:1e3a8a,60:2563eb,85:06b6d4,100:0f172a&height=230&section=header&text=Shubham%20Baghel&fontSize=64&fontColor=ffffff&fontAlignY=39&desc=Associate%20Staff%20Engineer%20%7C%20Full-Stack%20%26%20Cloud%20Engineer&descAlignY=62&descSize=17&animation=twinkling" width="100%" />
 
 </div>
 
@@ -239,15 +238,7 @@ I hold an **EU Blue Card** and am open to relocation within Europe.
 
 ## 📊 GitHub Engineering Activity
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhambaghel34&show_icons=true&count_private=true&hide_border=true&border_radius=14&title_color=38BDF8&icon_color=06B6D4&text_color=E2E8F0&bg_color=0D1117" height="175" />
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhambaghel34&layout=compact&hide_border=true&border_radius=14&title_color=38BDF8&text_color=E2E8F0&bg_color=0D1117" height="175" />
-
-</div>
 
 <br>
 
@@ -257,9 +248,7 @@ I hold an **EU Blue Card** and am open to relocation within Europe.
 
 </div>
 
----
 
-## 🐍 Contribution Flow
 
 <div align="center">
 
